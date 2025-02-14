@@ -1,5 +1,4 @@
-- 👋 Hi, I’m João Grilo aka @joaosgrilo
-- 👀 Hang around and check out my projects
+- 👋 Hi, I’m João Grilo
 
 
 <!---
